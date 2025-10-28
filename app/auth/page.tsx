@@ -51,7 +51,7 @@ export default function AuthPage() {
             </div>
 
             <div className="mt-8">
-              <img src="/abstract-dashboard.png" alt="TaskFlow dashboard preview" className="rounded-lg border" />
+              <img src="/abstract-dashboard.png" alt="TaskFlow dashboard preview" className="rounded-lg border max-w-full h-auto" />
             </div>
           </section>
 
